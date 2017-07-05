@@ -1,0 +1,5 @@
+require "./word_analyzer"
+require 'resque/tasks'
+require 'resque/scheduler/tasks'
+
+

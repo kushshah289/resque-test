@@ -1,0 +1,6 @@
+calculate:
+  cron: "*/1 * * * *"
+  queue: word_analysis
+  class: WordAnalyzer
+  args: 
+  description: 
