@@ -20,6 +20,9 @@ idea.each do |word|
   #
   #
   #
+  master
+  masterm
+  masterm
   #
   #
   #
