@@ -14,4 +14,23 @@ idea.each do |word|
   puts "Asking for a job to analyze: #{word}"
   Resque.enqueue(WordAnalyzer, word)
   # This is where we would enqueue something
+
+  #hello
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+
 end
