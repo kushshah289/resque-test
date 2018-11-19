@@ -20,15 +20,14 @@ idea.each do |word|
   #
   #
   #
+  ahlsd;akd;laskd ADDUSERR
+  slkdjalksdja ADDUSERR
+  jshdlashdljjasjdlkajdlkasjdlka ADDUSERR
+
   master
-  masterm
   masterm
   #
   #heeloooo kushhhh
-  #
-  sadasdjaslkjdas
-  dasdkasjldkjsad
-  lsdlajdlkajdlkas
   kasdkljasldjalskdjakjds
   #
   #code this bad boii
