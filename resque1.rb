@@ -21,9 +21,19 @@ idea.each do |word|
   #
   #
   ahlsd;akd;laskd ADDUSERR
-  slkdjalksdjaADDUSERR
-  jshdlashdljjasjdlkajdlkasjdlkaADDUSERR
-  daldkjahdlahdkjahhkjhADDUSERR
+  slkdjalksdja ADDUSERR
+  jshdlashdljjasjdlkajdlkasjdlka ADDUSERR
+
+  master
+  masterm
+  #
+  #heeloooo kushhhh
+  kasdkljasldjalskdjakjds
+  #
+  #code this bad boii
+  #
+  #
+  #
   #
   #
   #
