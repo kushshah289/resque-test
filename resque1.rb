@@ -21,10 +21,10 @@ idea.each do |word|
   #
   #
   #
+  #heeloooo kushhhh
   #
   #
-  #
-  #
+  #code this bad boii
   #
   #
   #
