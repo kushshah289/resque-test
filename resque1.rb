@@ -24,6 +24,18 @@ idea.each do |word|
   masterm
   masterm
   #
+  #heeloooo kushhhh
+  #
+  sadasdjaslkjdas
+  dasdkasjldkjsad
+  lsdlajdlkajdlkas
+  kasdkljasldjalskdjakjds
+  #
+  #code this bad boii
+  #
+  #
+  #
+  #
   #
   #
   #
