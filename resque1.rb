@@ -23,6 +23,12 @@ idea.each do |word|
   #
   #heeloooo kushhhh
   #
+  sadasdjaslkjdas
+  dasdkasjldkjsad
+  lsakjdlajdkajdklasd
+  lsjdlajdlasjdklajd
+  lsdlajdlkajdlkas
+  kasdkljasldjalskdjakjds
   #
   #code this bad boii
   #
