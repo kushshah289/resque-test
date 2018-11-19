@@ -25,8 +25,9 @@ idea.each do |word|
   jshdlashdljjasjdlkajdlkasjdlka ADDUSERR
 
   master
-  masterm
-  #
+  masterm LIST LIST
+  # => LIST
+  # => LIST LIST LIST
   #heeloooo kushhhh
   kasdkljasldjalskdjakjds
   #
